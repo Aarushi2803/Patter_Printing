@@ -21,4 +21,4 @@ if(n>1){
  
 }
 else printf("Shape Not Possible");
-}
+} 
